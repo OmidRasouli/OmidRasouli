@@ -43,7 +43,7 @@ Microservices built with Go, containerized using Docker, and orchestrated on Kub
 [![GitHub followers](https://img.shields.io/github/followers/OmidRasouli?label=Follow&style=social)](https://github.com/OmidRasouli)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@omidrasouli)
 
-📫 Reach me at: **omidrasouli92@gmail.com**
+📫 Reach me at: **o.rasouli92@gmail.com**
 
 ---
 
