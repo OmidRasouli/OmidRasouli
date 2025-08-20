@@ -7,9 +7,9 @@ I'm a backend engineer passionate about **system design, distributed systems, an
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Go, JavaScript, Python
-- **Frameworks:** Gin, Echo, Fiber
-- **Databases:** PostgreSQL, MySQL, Redis, MongoDB
+- **Languages:** Go, C#, JavaScript, TypeScript, Python
+- **Frameworks:** Gin
+- **Databases:** PostgreSQL, Redis, MongoDB
 - **DevOps & Tools:** Docker, Kubernetes, GitHub Actions, CI/CD
 - **Streaming & Media:** FFmpeg, HLS, M3U8, DRM
 - **Architecture:** Microservices, Clean Architecture, Event-Driven Systems
@@ -42,7 +42,7 @@ Documented system design exercises with diagrams, trade-offs, and scalability co
 [![GitHub followers](https://img.shields.io/github/followers/OmidRasouli?label=Follow&style=social)](https://github.com/OmidRasouli)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@omidrasouli)
 
-📫 Reach me at: **omidrasouli13@gmail.com**
+📫 Reach me at: **omidrasouli92@gmail.com**
 
 ---
 
