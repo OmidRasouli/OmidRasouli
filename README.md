@@ -7,7 +7,7 @@ I'm a backend engineer passionate about **system design, distributed systems, an
 ---
 
 <p align="center">
-  <img src="./OmidRasouliGopher.jpg" alt="VOD Streamer EDU" width="200"/>
+  <img src="./OmidRasouliGopher.jpg" alt="Omid Rasouli Gopher"/>
 </p>
 
 ## 🛠️ Tech Stack
