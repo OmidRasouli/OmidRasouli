@@ -24,9 +24,6 @@ A video-on-demand streaming platform built with **Go** and **FFmpeg** following 
 ### 🐳 Cloud-Native Go Services
 Microservices built with Go, containerized using Docker, and orchestrated on Kubernetes.
 
-### ⚡ System Design Examples
-Documented system design exercises with diagrams, trade-offs, and scalability considerations.
-
 ---
 
 ## 📈 GitHub Stats
