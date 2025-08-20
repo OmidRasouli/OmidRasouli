@@ -6,6 +6,10 @@ I'm a backend engineer passionate about **system design, distributed systems, an
 
 ---
 
+<p align="center">
+  <img src="./OmidRasouliGopher.jpg" alt="VOD Streamer EDU" width="200"/>
+</p>
+
 ## 🛠️ Tech Stack
 - **Languages:** Go, C#, JavaScript, TypeScript, Python
 - **Frameworks:** Gin
